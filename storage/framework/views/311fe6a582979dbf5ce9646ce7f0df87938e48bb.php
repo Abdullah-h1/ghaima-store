@@ -1,0 +1,2 @@
+<input type="hidden" name="<?php echo e($name, false); ?>" value="<?php echo e($value, false); ?>"/>
+<?php /**PATH D:\GhaimaStore\ghaima\vendor\encore\laravel-admin\src/../resources/views/table/quick-create/hidden.blade.php ENDPATH**/ ?>

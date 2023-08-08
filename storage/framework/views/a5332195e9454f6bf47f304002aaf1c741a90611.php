@@ -1,0 +1,1 @@
+<?php /**PATH D:\GhaimaStore\ghaima\resources\views/forgetPasswordMail.blade.php ENDPATH**/ ?>
